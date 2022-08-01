@@ -23,16 +23,20 @@
 }
 .presentation-wrapper h3{
 	padding-bottom: 15px;
+	text-align: center;
 }
 
 .presentation-wrapper p{
 	padding-bottom: 15px;
-	width: 80%;
+	padding-right: -100px;
+	width: 100%;
 }
 .presentation-wrapper img{
 	border-radius: 20px;
 	width: 80%;
 }
+
+
 
 @media screen and (min-width: 800px){
 .presentation-wrapper img{
